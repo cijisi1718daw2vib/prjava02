@@ -1,1 +1,12 @@
 
+1. 
+5. git checkout branca00
+10. git checkout master
+    git merge branca00
+
+14. git push --set-upstream origin branca01
+    start notepad++ src/prjava02/Prjava02.java
+    git add  src/prjava/Prjava02.java
+    git commit
+    git push
+    
